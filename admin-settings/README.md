@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: triangle-person-digging
+---
 
-[Content will be added with Tango screenshots]
+# Admin & Settings
+
+\[Content will be added with Tango screenshots]

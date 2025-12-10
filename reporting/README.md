@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: triangle-person-digging
+---
 
-[Content will be added with Tango screenshots]
+# Reporting
+
+\[Content will be added with Tango screenshots]

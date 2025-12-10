@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: stethoscope
+---
 
-[Content will be added with Tango screenshots]
+# Clinical Workflow
+
+\[Content will be added with Tango screenshots]

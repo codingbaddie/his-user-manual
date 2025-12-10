@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: golang
+---
 
-[Content will be added with Tango screenshots]
+# Getting Started
+
+\[Content will be added with Tango screenshots]

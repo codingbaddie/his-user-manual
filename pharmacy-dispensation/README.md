@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: truck-medical
+---
 
-[Content will be added with Tango screenshots]
+# Pharmacy Dispensation
+
+\[Content will be added with Tango screenshots]

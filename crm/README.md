@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: users-rectangle
+---
 
-[Content will be added with Tango screenshots]
+# CRM Module
+
+\[Content will be added with Tango screenshots]

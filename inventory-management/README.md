@@ -1,3 +1,7 @@
-# [Page Title - To be added]
+---
+icon: box-circle-check
+---
 
-[Content will be added with Tango screenshots]
+# Inventory Management
+
+\[Content will be added with Tango screenshots]
