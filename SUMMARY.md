@@ -24,6 +24,7 @@
   * [Appointment Management](crm/appointment-management.md)
   * [Check-In Process](crm/check-in-process.md)
   * [Patient Records Overview](crm/patient-records-overview.md)
+  * [Customer Journey management](main-pages/crm/customer-journey-management.md)
 * [Product Management](product-management/README.md)
   * [Add Single Product](product-management/add-single-product.md)
   * [Batch Product Upload](product-management/batch-product-upload.md)
