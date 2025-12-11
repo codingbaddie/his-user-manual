@@ -1,3 +1,7 @@
+---
+icon: timeline-arrow
+---
+
 # Customer Journey management
 
 ### Using Customer Journey on HIST System
